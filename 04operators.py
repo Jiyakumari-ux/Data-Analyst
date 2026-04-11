@@ -58,3 +58,6 @@ print("False and False:", False and False)
 g = not True # logical NOT
 print("Not True:", not True)
 print("Not False:", not False)
+
+print(not(True)) # Output: False
+print(not(False)) # Output: True
