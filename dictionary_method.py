@@ -4,7 +4,7 @@ marks = {
     "Rohan" : 78,
      0: "larry"
     }
-
+#print(len(marks)) # This will print the number of key-value pairs in the dictionary
 print(marks.items)
 print(marks.keys())
 print(marks.values())
